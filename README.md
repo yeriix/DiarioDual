@@ -22,26 +22,24 @@ Un **congreso** es una reunión periódica, formal y generalmente de varios día
 
 El organigrama de la empresa incluye 2 grandes apartados:
 
-- **Bocemitum**: Se encarga básicamente de buscar los vuelos de los clientes, hospedaje, encontrar los clientes potenciales para venderles la web, etc.
+- **Bocemtium**: Se encarga básicamente de buscar los vuelos de los clientes, hospedaje, encontrar los clientes potenciales para venderles la web, etc.
 - **ITNube** (mi área): Nos encargamos de **crear las webs** una vez habladas, arreglar errores o modificar cosas que el cliente, a través de Bocemitum, pida.
 
 Yo estaba ubicado en la **sala de ITNube**. La infraestructura de la empresa incluye una oficina de tamaño grande, la cual, a mi parecer, era una oficina **muy grande y muy agradable** para estar.
 
-A mi disposición tenía un portátil *[FALTA POR VER]*.
+A mi disposición tenía un portátil Acer con un Intel Core i5.
 
 ##  Contrato y condiciones
 
-En mi caso, estaba contratado a través de un **contrato de formación dual**, que consiste en realizar un total de **1000 horas** de formación práctica en la empresa con una remuneración del **60% del Salario Mínimo Interprofesional (SMI)**.
+En mi caso, estaba contratado a través de un **contrato de formación dual**, que consiste en realizar un total de **900 horas** de formación práctica en la empresa con una remuneración del **60% del Salario Mínimo Interprofesional (SMI)**.
 
 | Periodo | Horas | Fechas |
 |---------|-------|--------|
-| Periodo de prueba | 100 h | 5 al 30 de junio |
-| Como contratado | 800 h | 3 de julio al 23 de mayo |
+| Prácticas | 900 h | 16 de junio al 30 de abril |
 
 ### Vacaciones y bajas
 
-- **Vacaciones**: mes de agosto, del 22 de diciembre de 2023 al 8 de enero de 2024, y del 8 al 15 de mayo.
-- **Baja por enfermedad**: del 3 al 9 de octubre.
+- **Vacaciones**: mes de agosto, del 22 de diciembre de 2025 al 8 de enero de 2026.
 
 ##  Tutorías
 
@@ -58,4 +56,4 @@ Valoro esta experiencia de manera **muy positiva**. Aunque las tareas realizadas
 
 ---
 
->  *Última actualización: abril 19 2026*
+>  *Última actualización: abril 24 2026*
